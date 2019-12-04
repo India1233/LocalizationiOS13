@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LocalizationiOS13
+
+  Created by shiga on 04/12/19.
+  Copyright © 2019 Shigas. All rights reserved.
+*/
+
+"BUTTON_TITLE" = "Saudação";
+"POPUP_MESSAGE_TEXT" = "Saudação a você pessoa incrível";
+"POPUP_MESSAGE_OK_BUTTON" = "Okey";
